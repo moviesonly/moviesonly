@@ -76,13 +76,13 @@ h4 {
 }
 h1#logo {
 	position:absolute;
-	top:37px;
+	top:3px;
 	left:0;
 }
 h1#logo a {
 	float:left;
 	width:239px;
-	height:49px;
+	height:459px;
 	background:url('images/logo.gif') no-repeat 0 0;
 	font-size:0;
 	line-height:0;
